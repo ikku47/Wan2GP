@@ -49,3 +49,8 @@ wgp_config.json
 plugins_local.json
 loras_url_cache.json
 loras_url_cache_v2.json
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+config.bat
+node_modules
